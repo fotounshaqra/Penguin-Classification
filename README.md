@@ -1,6 +1,6 @@
 # Penguin-Classification
 ![Type](https://img.shields.io/badge/Machine-Learning-purple.svg) ![Type](https://img.shields.io/badge/Type-Supervised-navy.svg)
-Classification using various Machine Learning models (SVM, Logistic Regression, Decision Tree, KNN) 
+
 
 # Introduction
 The Penguins dataset was used for developing machine learning models for classification purposes.
