@@ -1,5 +1,5 @@
 # Penguin-Classification
-![Type](https://img.shields.io/badge/Machine-Learning-purple.svg) ![Type](https://img.shields.io/badge/Type-Supervised-navy.svg)![Type](https://img.shields.io/badge/Language-Python-maroon.svg)
+![Type](https://img.shields.io/badge/Machine-Learning-purple.svg) ![Type](https://img.shields.io/badge/Type-Supervised-navy.svg) ![Type](https://img.shields.io/badge/Language-Python-maroon.svg)
 
 
 # Introduction
